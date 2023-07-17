@@ -19,7 +19,7 @@ Open-source `Shoe Oasis` project that loads the products from `JSON` files saved
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/ecommerce-django-stripe.git
+$ git clone https://github.com/DanKisavi/shoe-oasis.git
 $ cd ecommerce-django-stripe
 ```
 
